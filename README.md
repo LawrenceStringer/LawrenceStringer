@@ -1,1 +1,1 @@
-#Lawrence Stinger
+# Lawrence Stringer
